@@ -1,0 +1,9 @@
+.imagecarousel{
+    width: 70rem;
+    display: block;
+    margin: auto;    
+    margin-top: 70px;
+}
+.cimage{
+    height: 500px;
+}
